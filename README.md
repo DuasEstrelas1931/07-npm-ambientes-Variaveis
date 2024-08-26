@@ -5,6 +5,9 @@ ambiente de um `.env` arquivo em `process.env`. Armazenar a
 configuração no ambiente separada docódigo é baseada na 
 metodologia The Twelve-Factor App.
 
+Onde buscar?
+www.npmjs.com/package/dotenv
+
 => INSTALAR
 
 npm install dotenv --save
